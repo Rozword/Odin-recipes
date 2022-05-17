@@ -1,0 +1,24 @@
+* {background-color: rgba(165, 224, 231, 0.8)}
+
+.title{
+    color: rgba(34,139,34,0.8);
+    background-color: pink;
+    text-align:center;
+    font-size: 30px; 
+    font-weight:bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.fpara{
+    color:	rgba(34,139,34,0.8);
+    background-color: pink;
+    text-align:center;
+    font-weight:bold;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.goku{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;  
+}
